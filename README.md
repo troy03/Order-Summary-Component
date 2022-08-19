@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/troy03/oder-summary-component)
-- Live Site URL: [Add live site URL here](https://github.com/troy03/oder-summary-component)
+- Solution URL: [https://github.com/troy03/oder-summary-component]
+- Live Site URL: [https://github.com/troy03/oder-summary-component]
 
 ## My process
 
