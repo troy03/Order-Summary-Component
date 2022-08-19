@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/troy03/oder-summary-component]
-- Live Site URL: [https://github.com/troy03/oder-summary-component]
+- Live Site URL: [https://troy03.github.io/oder-summary-component/]
 
 ## My process
 
